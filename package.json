@@ -1,0 +1,27 @@
+{
+  "name": "machinejs",
+  "version": "1.1.0",
+  "description": "Make behaviour trees in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mandarinx@github.com/mandarinx/machinejs.git"
+  },
+  "keywords": [
+    "hierarchical",
+    "state",
+    "machine",
+    "behaviour",
+    "tree",
+    "javascript"
+  ],
+  "author": "Mary Rose Cook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mandarinx/machinejs/issues"
+  },
+  "homepage": "https://github.com/mandarinx/machinejs"
+}
